@@ -155,12 +155,3 @@ Useful for debugging and calibration.
 
 If you like this project, ⭐ star the repository!
 
----
-
-If you want, I can also generate:
-
-* A more research-oriented README (since you're into publishing research 👀)
-* A resume-friendly project description
-* A version formatted specifically for academic submission
-
-Just tell me which one you need 🚀
